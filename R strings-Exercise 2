@@ -1,0 +1,10 @@
+**nchar() method in R Programming Language is used to get the length of a character in a string object. Where: String is object. Return: Returns the length of a string.**
+
+Exercise:
+
+Use the correct function to find the number of characters in the str variable:
+
+
+str <- "Hello World!"
+
+nchar(str)
