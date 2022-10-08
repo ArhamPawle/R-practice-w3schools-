@@ -1,0 +1,10 @@
+Exercise:
+
+Add a fname argument to the function.
+
+
+my_function <- function(fname) {
+  paste(fname)
+}
+
+my_function("Peter")
