@@ -1,0 +1,14 @@
+Exercise:
+
+Print "Yes" if a is equal to b, otherwise print "No".
+
+
+a <- 50
+b <- 50
+
+ if(b == a) {
+  print("Yes")
+} else {
+  print("No")
+}
+
