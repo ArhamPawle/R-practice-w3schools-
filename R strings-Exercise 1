@@ -1,0 +1,7 @@
+Exercise:
+
+Create a str variable with the value "Hello":
+
+
+  
+str<-"Hello"
