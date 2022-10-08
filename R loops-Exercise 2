@@ -1,0 +1,13 @@
+Exercise:
+
+Use the correct keyword to exit the loop if i is equal to 4.
+
+
+i <- 1
+while (i < 6) {
+  print(i)
+  i <- i + 1
+  if (i == 4) {
+    break
+  }
+}
