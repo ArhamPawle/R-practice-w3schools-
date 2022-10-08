@@ -1,0 +1,8 @@
+
+Exercise:
+
+Which function can be used to check the data type of a variable?
+
+
+x <- 10.5
+class(x)
