@@ -1,0 +1,11 @@
+Exercise:
+
+Print "Hello World" if a is equal to b.
+
+
+a <- 50
+b <- 50
+
+ if(a == b) {
+  print("Hello World")
+}
