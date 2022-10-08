@@ -1,0 +1,9 @@
+Exercise:
+
+Fill in the missing part to print the value TRUE:
+
+
+a <- 10
+b <- 9
+
+a > b
