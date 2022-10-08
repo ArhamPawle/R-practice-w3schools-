@@ -1,0 +1,7 @@
+
+Exercise:
+
+Use the correct function to find the lowest number in a set.
+
+
+min(5, 10, 15)
