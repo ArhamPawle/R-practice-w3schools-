@@ -1,0 +1,8 @@
+Exercise:
+
+Use the correct function to check if the character "H" is present in the str variable:
+
+
+str <- "Hello World!"
+
+grepl("H",str)
