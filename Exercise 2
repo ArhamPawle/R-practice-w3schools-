@@ -1,0 +1,6 @@
+Exercise:
+
+In R, you can also use a function to output code. Fill in the missing part to output "Hello World!":
+
+
+print("Hello World!")
