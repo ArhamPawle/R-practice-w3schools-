@@ -1,0 +1,10 @@
+Exercise:
+
+Insert the missing part to return a result (15).
+
+
+my_function <- function(x) {
+   return(5 * x)
+}
+
+print(my_function(3))
