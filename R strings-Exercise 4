@@ -1,0 +1,9 @@
+Exercise:
+
+Use a function to combine (concatenate) the two strings:
+
+
+str1 <- "Hello"
+str2 <- "World"
+
+paste(str1,str2 )
