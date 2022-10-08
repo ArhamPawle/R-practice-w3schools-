@@ -1,0 +1,6 @@
+Exercise:
+
+Assign the value "Orange" to multiple variables in one line:
+
+
+fruit1 <- fruit2 <- fruit3 <- "Orange" 
