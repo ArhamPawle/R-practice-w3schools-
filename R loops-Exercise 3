@@ -1,0 +1,13 @@
+Exercise:
+
+Use the correct keyword to skip the value of 3 in a loop.
+
+
+i <- 0
+while (i < 6) {
+  i <- i + 1
+  if (i == 3) {
+    next
+  }
+  print(i)
+}
