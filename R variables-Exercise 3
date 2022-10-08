@@ -1,0 +1,10 @@
+**paste(): Takes multiple elements from the multiple vectors and concatenates them into a single element.**
+
+Exercise:
+
+Use the correct function to combine the text "Hello" with the txt variable, to output "Hello World!".
+
+
+txt <- "World!"
+
+paste("Hello",txt)
