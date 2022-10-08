@@ -1,0 +1,8 @@
+Exercise:
+
+Use the correct keyword to iterate over a sequence of numbers.
+
+
+for (x in 1:10) {
+  print(x)
+}
