@@ -1,0 +1,8 @@
+Exercise:
+
+Insert the missing parts to create a function with the name my_function.
+
+
+ my_function<-function () {
+  print("Hello World!")
+}
