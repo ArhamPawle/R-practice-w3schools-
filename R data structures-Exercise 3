@@ -1,0 +1,6 @@
+Exercise:
+
+Insert the missing parts to create a list of strings.
+
+
+thislist <- list("apple", "banana", "cherry")
