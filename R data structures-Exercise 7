@@ -1,0 +1,6 @@
+Exercise:
+
+Insert the missing part to create a factor.
+
+
+music_genre <- factor(c("Jazz", "Rock", "Classic", "Classic", "Pop", "Jazz", "Rock", "Jazz"))
