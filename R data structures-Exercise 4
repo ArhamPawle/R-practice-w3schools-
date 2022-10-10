@@ -1,0 +1,6 @@
+Exercise:
+
+Insert the missing parts to create a matrix of strings.
+
+
+thismatrix <- matrix(c("apple", "banana", "cherry", "orange"), nrow = 2, ncol = 2)
