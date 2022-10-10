@@ -1,0 +1,8 @@
+Exercise:
+
+Insert the missing parts to find out how many items a vector has.
+
+
+fruits <- c("banana", "apple", "orange")
+
+length(fruits)
